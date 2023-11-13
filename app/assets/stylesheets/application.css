@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+.block{
+  border-left: 3px solid rgb(200, 200, 200);
+  padding-left: 30px;
+}
+
+ p{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 1.2em;
+  color: #000000;
+ }
+
+ .author {
+  font-style: italic;
+ }
+
+ form{
+  display: flex;
+ }
